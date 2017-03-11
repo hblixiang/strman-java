@@ -2,7 +2,7 @@
 Strman-java是一个字符串处理工具
 ## 开始
 Maven添加
-
+by lixiang
 ```
 <dependencies>
     <dependency>
